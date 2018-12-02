@@ -13,6 +13,9 @@ from builtins import range
 # This means your agent can't learn as much in the earlier episodes
 # since they are no longer as long.
 
+
+## Mountaincar using RBF Q learning
+
 import gym
 import os
 import sys
